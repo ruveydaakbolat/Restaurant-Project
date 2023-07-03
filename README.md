@@ -5,7 +5,7 @@ HTML CSS JavaScript Responsive Restaurant Project
 
 ### `Deploy`
 
-[responsive-burger-project.netlify.app/](https://responsive-burger-project.netlify.app/)
+https://responsive-restaurant-project.netlify.app/
 
 
 
