@@ -1,2 +1,2 @@
 # Burger-Project
-Html Css JavaScript Responsive Burger Project
+HTML CSS JavaScript Responsive Burger Project
