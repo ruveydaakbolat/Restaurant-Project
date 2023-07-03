@@ -1,4 +1,4 @@
-# Burger-Project
+# Restaurant-Project
 HTML CSS JavaScript Responsive Restaurant Project
 
 
